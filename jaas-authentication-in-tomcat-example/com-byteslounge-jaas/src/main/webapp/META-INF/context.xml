@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/com-byteslounge-jaas">
+  <Realm appName="BytesLoungeLogin" className="org.apache.catalina.realm.JAASRealm" roleClassNames="com.byteslounge.jaas.RolePrincipal" userClassNames="com.byteslounge.jaas.UserPrincipal"/>
+</Context>
